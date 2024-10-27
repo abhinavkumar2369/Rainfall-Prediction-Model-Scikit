@@ -1,5 +1,5 @@
 ## Overview ⭐
-- This is Rainfall Prediction Model made using Python, Numpy, Matplotlib, Pandas, SciKit. 
+- This is Rainfall Prediction Model made using Python, Numpy, Matplotlib, Pandas, Scikit-Learn. 
 - This Project take the use of Logarithmic Regression as Linear Regression accuracy is not good on the dataset.
 - This Model take use of Basic dataset of multiple weather parameter such as `TempAvgF`, `DewPointAvgF`, `HumidityAvgPercent`, `SeaLevelPressureAvgInches`, `WindAvgMPH` for Rainfall Prediction.
 
